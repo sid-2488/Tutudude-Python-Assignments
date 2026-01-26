@@ -1,2 +1,2 @@
 # Python_assignents
-Siidharth Murthy
+Sidharth Murthy
