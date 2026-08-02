@@ -1,48 +1,33 @@
-# Python_assignents
-Sidharth Murthy
+# Tutedude Python Assignments
 
-# Tutudude Python Assignments 1 & 2
-first_name = input("Enter your first name: ")
+This repository contains my Python assignments completed as part of the Tutedude Python course.
 
-last_name = input("Enter your last name: ")
+## Author
+Siddharth Murthy
 
-print("Hello," + first_name + " " + last_name + " " + "welcome to python program")
+## Assignments
 
-Enter your first name: siddharth
+### Assignment 1
+- Covers basic Python concepts.
+- Includes variables, data types, operators, and user input.
 
-Enter your last name: Murthy
+### Assignment 2
+- Covers conditional statements and loops.
+- Includes arithmetic operations and pattern-based programs.
 
-Hello,siddharth Murthy welcome to python program
-
-Assignment 2
-
-Num1 = input("Enter the first number: ")
-
-Num2 = input("Enter the second number: ")
-
-Num1 = int(Num1)
-
-Num2 = int(Num2)
-
-print("addition:", Num1 + Num2)
-
-print("subtraction:", Num1 - Num2)
-
-print("multiplication:", Num1 * Num2)
-
-print("division:", Num1 / Num2)
-
-Enter the first number: 5
-
-Enter the second number: 10
-
-addition: 15
-
-subtraction: -5
-
-multiplication: 50
-
-division: 0.5
+### Assignment 3
+- Covers functions, recursion, and the Python `math` module.
 
 
+## How to Run
 
+1. Make sure Python 3 is installed on your computer.
+2. Open the project in PyCharm or navigate to the project folder using Command Prompt or Terminal.
+3. Open the assignment file you want to run.
+4. Click the **Run** button in PyCharm or run the file using Python.
+
+Example:
+
+```
+python "Assignment_3_Functions & Modules in Python.py"
+```
