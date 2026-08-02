@@ -31,3 +31,21 @@ Example:
 ```
 python "Assignment_3_Functions & Modules in Python.py"
 ```
+
+## Assignment 4
+
+**Topic:** File Handling and Exception Handling
+
+**Tasks Completed:**
+
+* Read data from a file line by line using file handling concepts.
+* Implemented exception handling using `FileNotFoundError`.
+* Created and wrote data into `output.txt`.
+* Appended user input to an existing file.
+* Read and displayed the final contents of the file.
+
+**Concepts Covered:**
+
+* File handling (`open()`, read, write, append modes)
+* Exception handling (`try-except`)
+* Working with text files
